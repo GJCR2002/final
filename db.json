@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Refrigerador",
+      "price": "2500",
+      "image_url": "https://images.samsung.com/is/image/samsung/pe-ref-sbs-rs5300-rs27t5561b1-pe-frontjetblack-thumb-203517029",
+      "rating": 4
+    },
+    {
+      "name": "Microondas",
+      "price": "600",
+      "image_url": "https://www.lg.com/pe/images/microondas/md05824775/gallery/mobile-01.jpg",
+      "rating": 4
+    },
+    {
+      "name": "Televisor",
+      "price": "3000",
+      "image_url": "https://home.ripley.com.pe/Attachment/WOP_5/2018292197085/2018292197085_2.jpg",
+      "rating": 3
+    },
+    {
+      "name": "Lavadora",
+      "price": "1800",
+      "image_url": "https://www.lg.com/pe/images/lavadoras/md06082796/gallery/WT22BSS6H__LAV_1100_10.jpg",
+      "rating": 4
+    }
+  ]
+}
