@@ -41,6 +41,30 @@
       "price": "950",
       "image_url": "https://electroluxpe.vtexassets.com/arquivos/ids/155419/EAS31_Aspiradora-EASYBOX-PLUS_electrolux_lateral-2.jpg?v=636953045004500000",
       "rating": 4
-    }
+    },
+    {
+      "name": "Licuadora",
+      "price": "250",
+      "image_url": "https://www.inche.com.pe/wp-content/uploads/2021/04/BLST4655_ATF-1.jpg",
+      "rating": 3
+    },
+    {
+      "name": "Freidora",
+      "price": "329",
+      "image_url": "https://osterpe.vteximg.com.br/arquivos/ids/156405-700-700/CKSTAF40D-2.jpg?v=637388048651300000/",
+      "rating": 3
+    },
+    {
+      "name": "Plancha",
+      "price": "89",
+      "image_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ele_0013.jpg?itok=P4-5PW9-",
+      "rating": 5
+    },
+    {
+      "name": "Olla Arrocera",
+      "price": "79",
+      "image_url": "https://i.linio.com/p/6f90c6620cb4a16143b988dbc00f96fd-product.jpg",
+      "rating": 4
+    },
   ]
 }
