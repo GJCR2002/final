@@ -41,6 +41,12 @@
       "price": "950",
       "image_url": "https://electroluxpe.vtexassets.com/arquivos/ids/155419/EAS31_Aspiradora-EASYBOX-PLUS_electrolux_lateral-2.jpg?v=636953045004500000",
       "rating": 4
+    },
+    {
+      "name": "Licuadora",
+      "price": "89",
+      "image_url": "https://surtiloza.mx/wp-content/uploads/2017/02/LICUADORA-OSTER-2-VELOCIDADES.jpg",
+      "rating": 3
     }
   ]
 }
