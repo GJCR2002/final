@@ -47,6 +47,12 @@
       "price": "89",
       "image_url": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/BLSTBHBPST053_1.jpg",
       "rating": 3
+    },
+    {
+      "name": "Olla Arrocera",
+      "price": "150",
+      "image_url": "https://www.lacuracao.pe/wcsstore/efe_cat_as/646x1000/BLSTBHBPST053_1.jpg",
+      "rating": 2
     }
   ]
 }
