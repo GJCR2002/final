@@ -23,6 +23,12 @@
       "price": "1800",
       "image_url": "https://www.lg.com/pe/images/lavadoras/md06082796/gallery/WT22BSS6H__LAV_1100_10.jpg",
       "rating": 4
+    },
+    {
+      "name": "Lavadora",
+      "price": "1800",
+      "image_url": "https://www.lg.com/pe/images/lavadoras/md06082796/gallery/WT22BSS6H__LAV_1100_10.jpg",
+      "rating": 4
     }
   ]
 }
