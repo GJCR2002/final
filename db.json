@@ -26,9 +26,21 @@
     },
     {
       "name": "Tostadora",
-      "price": "14",
-      "image_url": "https://www.lg.com/pe/images/lavadoras/md06082796/gallery/WT22BSS6H__LAV_1100_10.jpg",
+      "price": "750",
+      "image_url": "https://home.ripley.com.pe/Attachment/WOP_5/2019260207348/2019260207348_2.jpg",
       "rating": 3
+    },
+    {
+      "name": "Batidora",
+      "price": "400",
+      "image_url": "https://electroabad.pe/wp-content/uploads/2020/07/002499-1.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Aspiradora",
+      "price": "950",
+      "image_url": "https://electroluxpe.vtexassets.com/arquivos/ids/155419/EAS31_Aspiradora-EASYBOX-PLUS_electrolux_lateral-2.jpg?v=636953045004500000",
+      "rating": 4
     }
   ]
 }
